@@ -1,0 +1,4 @@
+number = 11
+int = i
+for (i=2; i <num ; i++) n=num%i >> if n==0 This is Not prime number
+if( i== num) >> This is prim number
