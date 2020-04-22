@@ -1,0 +1,5 @@
+var r = 10;
+a = 2*3.14.Math.pow(r, 2); {alert(a,"This is :");}
+
+var h = 20;
+V = 3.14*Math.pow(r,2)*h {alert(V,"This is Volume";}
